@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Node (from Milestone 3)
+node_modules/
+
+# Reports (generated, from Milestone 5)
+reports/
+
+# Local secrets, never commit
+.env
+*.local.json
+
+
